@@ -17,19 +17,3 @@ This is a Career based Recommendation System project. Choosing the right career 
 
 ![CBRS1](./assets/demo/f4.png)
 
-### Video Demonstration.
-
-https://user-images.githubusercontent.com/59966943/153448450-c0e42cca-1659-444c-88a3-d920a656dd6c.mp4
-
-</br>
-<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
-
-</br>
-
-[![GitHub followers](https://img.shields.io/github/followers/hrugved06.svg?label=Follow%20@hrugved06&style=social)](https://github.com/hrugved06) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HrugVed_?style=social)](https://twitter.com/HrugVed_)
-</div>
-</br>
-<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
